@@ -66,8 +66,8 @@ This project processes 3D point cloud data to:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd 3D
+   git clone https://github.com/nhuyha/3D-point-cloud-process.git
+   cd 3D-point-cloud-process
    ```
 
 2. **Create conda environment**:
@@ -89,8 +89,8 @@ This project processes 3D point cloud data to:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd 3D
+   git clone https://github.com/nhuyha/3D-point-cloud-process.git
+   cd 3D-point-cloud-process
    ```
 
 2. **Create virtual environment**:
